@@ -1,4 +1,4 @@
-# Zoo Animal Classification ML
+# ML - Zoo Animal Classification
 
 ![Wildlife cover featuring a variety of animals](docs/images/zoo-cover.png)
 
@@ -46,7 +46,7 @@ For binary features, `0` means no and `1` means yes. The feature descriptions re
 ## Repository structure
 
 ```text
-Zoo-Animal-Classification-ML/
+ML-Zoo-Animal-Classification/
 |-- README.md                              # Project documentation
 |-- app.py                                 # Streamlit prediction interface
 |-- Zoo-Animal-Classification-ML.ipynb       # Exploration, training, evaluation
@@ -63,8 +63,8 @@ Zoo-Animal-Classification-ML/
 Install Python with `venv` support, then clone the repository:
 
 ```bash
-git clone https://github.com/vams2krish/Zoo-Animal-Classification-ML.git
-cd Zoo-Animal-Classification-ML
+git clone https://github.com/vams2krish/ML-Zoo-Animal-Classification.git
+cd ML-Zoo-Animal-Classification
 python -m venv .venv
 ```
 
